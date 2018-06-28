@@ -1,3 +1,5 @@
+
+//再试试gitaaa
 2017.9.25
 今週はangular.js設定環境のいくつかを学びました。
 https://github.com/angular/angular-cli
@@ -96,4 +98,6 @@ Coding：
 
 在你谈恋爱之前，是你变优秀的最好时机。
 
-改变改变改变
+嗷嗷嗷嗷哦啊
+
+それをやりたくない上司の。
